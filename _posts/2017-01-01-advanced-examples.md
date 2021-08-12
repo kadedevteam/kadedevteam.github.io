@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Kade-Engine"
 mathjax: true
 layout: post
 categories: media
